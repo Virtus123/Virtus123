@@ -10,7 +10,7 @@ Construo software de ponta a ponta — do backend e banco de dados à interface 
 
 ## Projetos em destaque
 
-### [MAM Control](https://github.com/Virtus123/MAMControl)
+### [Acess Control](https://github.com/Virtus123/Acess-Control)
 Sistema SaaS **multi-tenant** de controle de acesso físico (condomínios, empresas, revendas).
 
 `Node.js` · `Express` · `SQLite` · `JWT` · `Swagger` · `PWA` · integração biométrica
@@ -50,7 +50,7 @@ Assistente web com chat e versículos bíblicos, integrado ao **Google Gemini**.
 | Área | Tecnologias |
 |------|-------------|
 | Backend | Node.js, Express, FastAPI, SQLite, PostgreSQL, Redis |
-| Frontend | HTML, CSS, JavaScript, PWA |
+| Frontend | React, TypeScript, Vite, HTML/CSS, JavaScript, PWA |
 | Desktop | C# / .NET 8, Python |
 | DevOps | Docker, PM2, GitHub Actions, deploy VPS |
 | Segurança | JWT, Argon2/bcrypt, rate limiting, Helmet |
