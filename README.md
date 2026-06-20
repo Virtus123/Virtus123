@@ -4,18 +4,11 @@
 
 🌐 **[virtus123.github.io](https://virtus123.github.io)** · 📧 **vitorfernandes.y02@gmail.com** · 📍 Brasil
 
-Construo software de ponta a ponta — do backend e banco de dados à interface e deploy em produção. Foco em sistemas reais usados no dia a dia: controle de acesso, suporte remoto, plataformas SaaS e automação.
+Construo software de ponta a ponta — do backend e banco de dados à interface e deploy em produção. Foco em sistemas reais usados no dia a dia: suporte remoto, plataformas SaaS, educação e automação.
 
 ---
 
 ## Projetos em destaque
-
-### [Acess Control](https://github.com/Virtus123/Acess-Control)
-Sistema SaaS **multi-tenant** de controle de acesso físico (condomínios, empresas, revendas).
-
-`Node.js` · `Express` · `SQLite` · `JWT` · `Swagger` · `PWA` · integração biométrica
-
----
 
 ### [MAMDesk](https://github.com/Virtus123/MAMDeskOpenSource)
 Plataforma de **suporte remoto** estilo AnyDesk — clientes Windows + servidor centralizado self-hosted.
@@ -27,7 +20,7 @@ Plataforma de **suporte remoto** estilo AnyDesk — clientes Windows + servidor 
 ### [Plataforma Educacional](https://github.com/Virtus123/back-end-plataforma-educacional)
 Plataforma com quizzes, níveis de dificuldade, autenticação e integração com IA.
 
-`Node.js` · `Express` · `SQLite` · [Demo](https://back-end-plataforma-educacional.onrender.com/)
+`Node.js` · `Express` · `SQLite` · [Demo](https://virtus123.github.io/back-end-plataforma-educacional/)
 
 ---
 
@@ -41,7 +34,13 @@ Driver em Python que lê dados seriais de leitor RFID/Arduino e simula entrada d
 ### [Ruah](https://github.com/Virtus123/Ruah)
 Assistente web com chat e versículos bíblicos, integrado ao **Google Gemini**.
 
-`Node.js` · `Express` · `Google Generative AI`
+`Node.js` · `Express` · `Google Generative AI` · [Demo](https://virtus123.github.io/Ruah/)
+
+---
+
+## Experiência adicional
+
+**Sistema de controle de acesso (SaaS)** — atuei no desenvolvimento de uma plataforma multi-tenant (Node.js, PWA, regras de acesso, relatórios e integrações). Experiência profissional anterior; **não faz parte do meu portfólio open source principal**.
 
 ---
 
