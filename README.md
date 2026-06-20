@@ -2,9 +2,9 @@
 
 **Desenvolvedor Full Stack** · C#, Node.js, Python · Sistemas web, desktop e integração com hardware
 
-Construo software de ponta a ponta — do backend e banco de dados à interface e deploy em produção. Foco em sistemas reais usados no dia a dia: controle de acesso, suporte remoto, plataformas SaaS e automação.
+🌐 **[virtus123.github.io](https://virtus123.github.io)** · 📧 **vitorfernandes.y02@gmail.com** · 📍 Brasil
 
-📧 **vitorfernandes.y02@gmail.com** · 📍 Brasil
+Construo software de ponta a ponta — do backend e banco de dados à interface e deploy em produção. Foco em sistemas reais usados no dia a dia: controle de acesso, suporte remoto, plataformas SaaS e automação.
 
 ---
 
@@ -67,6 +67,7 @@ Assistente web com chat e versículos bíblicos, integrado ao **Google Gemini**.
 
 Estou aberto a oportunidades de **estágio, CLT ou projetos freelance**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
-[![E-mail](https://img.shields.io/badge/E--mail-vitorfernandes.y02@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vitorfernandes.y02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Virtus123-black?style=for-the-badge&logo=github)](https://github.com/Virtus123)
+[![Portfólio](https://img.shields.io/badge/Portfólio-virtus123.github.io-24a751?style=for-the-badge)](https://virtus123.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitor_Fernandes-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitor-fernandes-840b4a372)
+[![E-mail](https://img.shields.io/badge/E--mail-vitorfernandes.y02@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:vitorfernandes.y02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Virtus123-181717?style=for-the-badge&logo=github)](https://github.com/Virtus123)
